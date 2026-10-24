@@ -1,7 +1,16 @@
 # Home Network Configuration and Security Lab
 
 ## Overview
-Completed a simulated home network configuration using Cisco Packet Tracer. The lab involved connecting network devices, configuring a wireless router, setting up DHCP, securing a wireless network, and testing connectivity.
+Completed a simulated home network configuration using Cisco Packet Tracer. The lab involved connecting network devices, configuring a wireless router, setting up DHCP, securing a wireless network, and verifying connectivity between clients and the internet.
+
+## Screenshots
+Add screenshots of the Packet Tracer topology, router settings, and wireless security setup below.
+
+![Home network topology](images/home-network-topology.png)
+
+![Wireless router security settings](images/wireless-security-settings.png)
+
+> Upload your image files to an `images/` folder in the repository before committing, then keep the file names above in sync with the actual screenshots.
 
 ## Objectives
 - Connect a cable modem, wireless router, PCs, laptop, and TV.
